@@ -28,3 +28,7 @@ Kateqoriyalar
 24. Ehtiyyat hissələri
 25. Metro
 26. Fitness zal
+27. Parklar
+28. Usag baxcalari
+29. Mektebler
+30. Universitetler
