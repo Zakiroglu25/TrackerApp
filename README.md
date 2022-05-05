@@ -24,4 +24,7 @@ Kateqoriyalar
 20. Plaza
 21. Doner
 22. Rents
-23. 
+23. Rents
+24. Ehtiyyat hissələri
+25. Metro
+26. Fitness zal
