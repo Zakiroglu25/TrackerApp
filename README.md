@@ -16,7 +16,7 @@ Kateqoriyalar
 12. Qadin baxim
 13. Kisi baxim
 14. Game
-15. Free WC
+15. WC
 16. Muzey
 17. Kino
 18. Coffe
@@ -24,7 +24,7 @@ Kateqoriyalar
 20. Plaza
 21. Doner
 22. Rents
-23. Rents
+23. Masin Servisleri
 24. Ehtiyyat hissələri
 25. Metro
 26. Fitness zal
@@ -32,3 +32,16 @@ Kateqoriyalar
 28. Usag baxcalari
 29. Mektebler
 30. Universitetler
+31. Xəstəxana
+32. Stamatoloq
+33. Moyka
+34. Teker hava
+35. Yanacaq doldurma menteqesi
+36. Merasim 
+37. Şadlıq sarayları
+38. Mall
+39. Makler
+40. Polis şöbəlri
+41. Nazirlik
+42. İcra hakimiyyətləri
+43. 
