@@ -44,4 +44,5 @@ Kateqoriyalar
 40. Polis şöbəlri
 41. Nazirlik
 42. İcra hakimiyyətləri
-43. 
+43. Massaj salonu
+44. 
