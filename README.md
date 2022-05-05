@@ -45,4 +45,7 @@ Kateqoriyalar
 41. Nazirlik
 42. İcra hakimiyyətləri
 43. Massaj salonu
-44. 
+44. Notariuslar
+45. Abideler
+46. Tarixi yerler
+47. 
